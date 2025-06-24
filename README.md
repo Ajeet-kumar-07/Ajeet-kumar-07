@@ -34,7 +34,7 @@ const prathamesh = {
 - 🌱 I'm currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
 - 👯 I'm looking to collaborate on **Projects based on React,Nextjs,Nodejs**
 - 🏆 Goal: **Contribute more to open-source projects.**
-- 💬 Ask me about **Frontend Development, DSA, Mern Full Stack Development **
+- 💬 Ask me about **Backend Development, DSA, Mern Full Stack Development **
 - 📫 How to reach me: **jatwarajeet3@gmail.com**
 - ⚡ **Would love to connect with like-minded people.**
 
