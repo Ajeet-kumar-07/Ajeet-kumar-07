@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 👋 Hi, I'm **Prathamesh Sahebrav Jadhav**
+# 👋 Hi, I'm **Ajeet Kumar**
 
 ### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
 
