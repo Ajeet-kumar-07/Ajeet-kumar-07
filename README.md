@@ -36,6 +36,7 @@ const prathamesh = {
 - 🏆 Goal: **Contribute more to open-source projects.**
 - 💬 Ask me about **Backend Development, DSA, Mern Full Stack Development **
 - 📫 How to reach me: **jatwarajeet3@gmail.com**
+- 🌱 Portfolio: **https://ajeetkumar1.netlify.app/**
 - ⚡ **Would love to connect with like-minded people.**
 
 ---
