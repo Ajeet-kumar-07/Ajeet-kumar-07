@@ -18,7 +18,7 @@
 ## 🎯 **About Me**
 
 ```javascript
-const prathamesh = {
+const Ajeet = {
     code: ["C++", "JavaScript", "Python"],
     technologies: {
         frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
