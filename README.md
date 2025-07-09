@@ -89,12 +89,7 @@ const Ajeet = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-</div>
 
----
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhiZGx6Mzd1aTU0a2JxOXFxcnRvcGV1YXM3OG9vazN2ZW5vOGl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" width="400" style="max-width: 100%; height: auto;" />
-</div>
 
 ---
 
