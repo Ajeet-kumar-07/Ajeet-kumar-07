@@ -3,7 +3,7 @@
   
 # 👋 Hi, I'm **Ajeet Kumar**
 
-### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast
+### 🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
 
@@ -21,10 +21,11 @@
 const Ajeet = {
     code: ["C++", "JavaScript", "Python"],
     technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
+        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
         backEnd: ["Express.js", "Node.js"],
         databases: ["MySQL", "MongoDb",],
-        tools: ["Git", "Postman"]
+        tools: ["Git", "Postman"],
+        Systems: ["Asml" , "Linux" , "Unix" , "Bash" ]
     },
     currentFocus: "Building scalable web applications",
     challenge: "Contributing more to open source projects",
@@ -84,6 +85,9 @@ const Ajeet = {
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### **Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
